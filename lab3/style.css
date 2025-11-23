@@ -3,6 +3,7 @@
     margin: 0%;
     padding: 0px;
     box-sizing: border-box;
+    scroll-behaviour: smooth;
 }
 
 /* header */
@@ -586,4 +587,5 @@ input {
         right: 20px;
 
     }
+
 }
